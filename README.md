@@ -1,5 +1,4 @@
 # Billboard Hot 100 database storage and data analysis
-by Thomas Clayton Schmidter
 
 - Scrapes the Billboard Weekly Hot 100 from 1958 to current day using BeautifulSoup
 - Stores the data in a SQLite database
